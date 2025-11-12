@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wikipedia Oxygen Test
 
 A Maven project with Selenium and JUnit5 for testing Wikipedia articles.
@@ -63,3 +64,7 @@ mvn test -Dtest=WikipediaOxygenTest#testAtmosphereContainsCorrectOxygenPercentag
 
 
 
+=======
+# WikipediaOxygenTest
+Тестовое задание по автоматизации тестирования с использованием Selenium для проверки содержания кислорода в атмосфере Земли.
+>>>>>>> 17b8360311cb19456b329c540ec65445eac02303
